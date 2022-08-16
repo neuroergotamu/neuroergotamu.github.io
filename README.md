@@ -1,2 +1,3 @@
 # neuroergotamu.github.io
-Webpage redirect
+
+GitHub page to redirect users from `neuroergotamu.github.io` to `https://neuroergonomics.engr.tamu.edu/`.
